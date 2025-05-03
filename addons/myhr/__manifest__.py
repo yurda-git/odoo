@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "my_module",
+    'name': "gorevler",
     'version': '0.1',
-    'category': 'Human Resources/my_module',
+    'category': 'Human Resources/gorevler',
 
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
